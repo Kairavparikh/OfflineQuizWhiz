@@ -1,0 +1,4 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   576  100   102  100   474  44367   201k --:--:-- --:--:-- --:--:--  281k
+{"detail":"Error generating paper: generate_mcqs() got an unexpected keyword argument 'test_section'"}

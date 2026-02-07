@@ -1,0 +1,75 @@
+{
+  "paper_id": "17a04e70-f4a5-47d4-b537-e30a338fa416",
+  "paper_name": "Test Exam 2026",
+  "subject": "Somatosensory System",
+  "created_at": "2026-02-06T18:41:31.986039",
+  "total_questions": 3,
+  "questions": [
+    {
+      "question_id": "c51b3092-b832-46f3-b315-c1d63745c800",
+      "test_section": "Main Subject",
+      "main_topic": "Sensory Systems",
+      "subtopic": "Muscle Spindles",
+      "difficulty": "Easy",
+      "question_text_en": "Which of these structures are found within muscle fibers and help maintain muscle length?",
+      "option_a_en": "Neuromuscular junctions",
+      "option_b_en": "Sensory nerve endings",
+      "option_c_en": "Muscle spindles",
+      "option_d_en": "Motor neurons",
+      "correct_answer": "C",
+      "explanation": "Muscle spindles are specialized sensory receptors found within muscle fibers. They help maintain muscle length and provide feedback to the central nervous system about the current state of the muscle, which is crucial for controlling movements. This function is different from neuromuscular junctions, sensory nerve endings, and motor neurons, which are all involved in transmitting or initiating nerve impulses but not in maintaining muscle length.",
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK26879/",
+        "Kandel, Schwartz & Jessell's Principles of Neural Science, 5th Edition, Chapter 31, Section 31-7"
+      ],
+      "created_at": "2026-02-06T18:40:55.820597",
+      "source_pdf": null,
+      "has_diagram": false,
+      "tags": []
+    },
+    {
+      "question_id": "7ce1113c-246c-47a8-9a47-74047ecef351",
+      "test_section": "Main Subject",
+      "main_topic": "Sensory Systems",
+      "subtopic": "Touch Receptors",
+      "difficulty": "Easy",
+      "question_text_en": "Which of these is NOT a type of touch receptor found in the somatosensory system?",
+      "option_a_en": "Meissner's corpuscle",
+      "option_b_en": "Pacinian corpuscle",
+      "option_c_en": "Ruffini endings",
+      "option_d_en": "Merkel discs",
+      "correct_answer": "D",
+      "explanation": "Merkel discs are a type of touch receptor found in the epithelial layer of the skin, responsible for detecting pressure and texture. They differ from Meissner's corpuscles (which respond to light touch), Pacinian corpuscles (responsible for deep pressure sensation), and Ruffini endings (that sense skin stretch and joint movement).",
+      "references": [
+        "https://en.wikipedia.org/wiki/Somatosensory_system#Touch_receptors",
+        "Textbook of Anatomy by Eugene B. Straus, Chapter 40, Section 5"
+      ],
+      "created_at": "2026-02-06T18:41:13.102482",
+      "source_pdf": null,
+      "has_diagram": false,
+      "tags": []
+    },
+    {
+      "question_id": "07cb98d2-b1c7-4702-8724-078dcb5370c2",
+      "test_section": "Main Subject",
+      "main_topic": "Sensory Systems",
+      "subtopic": "Muscle Spindles",
+      "difficulty": "Medium",
+      "question_text_en": "A muscle spindle responds to changes in muscle length. Which of the following is a primary reason for this response?",
+      "option_a_en": "To maintain constant joint angle",
+      "option_b_en": "To monitor muscle tension",
+      "option_c_en": "To detect stretch reflex",
+      "option_d_en": "To control muscle fatigue",
+      "correct_answer": "C",
+      "explanation": "Muscle spindles primarily serve to detect changes in muscle length, which triggers the stretch reflex. This helps maintain a consistent muscle tone and stabilize joint position during movement. The stretch reflex is an automatic response that prevents excessive stretching of muscles and maintains muscle length within a safe range.",
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK532867/",
+        "Neuroscience: Exploring the Brain by Michael S. Gazzaniga, Chapter 19"
+      ],
+      "created_at": "2026-02-06T18:41:31.985863",
+      "source_pdf": null,
+      "has_diagram": false,
+      "tags": []
+    }
+  ]
+}

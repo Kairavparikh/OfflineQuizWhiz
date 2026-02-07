@@ -1,0 +1,5 @@
+Test Section,Main Topic,Sub-topic,Difficulty Level,Translation for options required?,Question ID,Question- English,Question- Hindi,Option A- English,Option A- Hindi,Option B- English,Option B- Hindi,Option C- English,Option C- Hindi,Option D- English,Option D- Hindi,Correct Answer,Solution/Workout/Explanation,Reference(s)
+Metallurgical Engineering,Engineering Mathematics,"Linear Algebra
+Matrices and Determinants",Medium,,1,"Four matrices of orders 2×3, 3×3, 3×2, and 3×1 are given. For which of these matrices can the determinant be calculated?",,2 × 3 matrix,,3 × 3 matrix,,3 × 2 matrix,,3 × 1 matrix,,Option B,Determinants: Only defined for square matrices (n x n).,"1. https://allen.in/jee/maths/determinants-and-matrices
+2. https://www.cuemath.com/algebra/matrices-and-determinants/
+3. https://www.geeksforgeeks.org/dsa/determinant-of-a-matrix/"

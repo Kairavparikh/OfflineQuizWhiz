@@ -1,0 +1,185 @@
+{
+  "subjects": [
+    {
+      "name": "Metallurgical Engineering",
+      "code": "SME",
+      "description": "Core metallurgical engineering concepts for competitive exams",
+      "sections": [
+        {
+          "name": "Engineering Mathematics",
+          "description": "Mathematical foundations for engineering",
+          "topics": [
+            {
+              "name": "Linear Algebra",
+              "description": "Vector spaces, matrices, and linear transformations",
+              "subtopics": [
+                {
+                  "name": "Matrices and Determinants",
+                  "description": "Matrix operations, determinants, rank, eigenvalues",
+                  "keywords": ["matrix", "determinant", "eigenvalue", "eigenvector"]
+                },
+                {
+                  "name": "System of Linear Equations",
+                  "description": "Solutions using matrix methods, Gaussian elimination",
+                  "keywords": ["linear equations", "gaussian elimination", "rank"]
+                }
+              ]
+            },
+            {
+              "name": "Calculus",
+              "description": "Differential and integral calculus",
+              "subtopics": [
+                {
+                  "name": "Limits and Continuity",
+                  "description": "Concept of limits, continuity, and differentiability",
+                  "keywords": ["limit", "continuity", "differentiability"]
+                },
+                {
+                  "name": "Differentiation",
+                  "description": "Derivatives, partial derivatives, chain rule",
+                  "keywords": ["derivative", "partial derivative", "chain rule", "maxima", "minima"]
+                },
+                {
+                  "name": "Integration",
+                  "description": "Definite and indefinite integrals, applications",
+                  "keywords": ["integral", "area", "volume", "definite integral"]
+                }
+              ]
+            },
+            {
+              "name": "Differential Equations",
+              "description": "Ordinary and partial differential equations",
+              "subtopics": [
+                {
+                  "name": "First Order ODEs",
+                  "description": "Separable, linear, exact equations",
+                  "keywords": ["ODE", "first order", "separable", "linear"]
+                },
+                {
+                  "name": "Higher Order ODEs",
+                  "description": "Second and higher order linear ODEs",
+                  "keywords": ["second order", "homogeneous", "non-homogeneous"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Physics",
+          "description": "Core physics concepts applicable to materials science",
+          "topics": [
+            {
+              "name": "Mechanics",
+              "description": "Classical mechanics and dynamics",
+              "subtopics": [
+                {
+                  "name": "Newton's Laws of Motion",
+                  "description": "Force, mass, acceleration, momentum",
+                  "keywords": ["force", "mass", "acceleration", "momentum", "newton"]
+                },
+                {
+                  "name": "Work, Energy, and Power",
+                  "description": "Conservation of energy, kinetic and potential energy",
+                  "keywords": ["work", "energy", "power", "conservation", "kinetic", "potential"]
+                }
+              ]
+            },
+            {
+              "name": "Thermodynamics",
+              "description": "Heat, temperature, and energy transformations",
+              "subtopics": [
+                {
+                  "name": "Laws of Thermodynamics",
+                  "description": "Zeroth, first, second, and third laws",
+                  "keywords": ["thermodynamics", "entropy", "enthalpy", "heat"]
+                },
+                {
+                  "name": "Heat Transfer",
+                  "description": "Conduction, convection, radiation",
+                  "keywords": ["conduction", "convection", "radiation", "heat transfer"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Material Science",
+          "description": "Properties and behavior of engineering materials",
+          "topics": [
+            {
+              "name": "Crystal Structure",
+              "description": "Atomic arrangements in solids",
+              "subtopics": [
+                {
+                  "name": "Crystal Systems",
+                  "description": "BCC, FCC, HCP, and other crystal systems",
+                  "keywords": ["BCC", "FCC", "HCP", "crystal", "lattice"]
+                },
+                {
+                  "name": "Defects in Crystals",
+                  "description": "Point, line, and planar defects",
+                  "keywords": ["vacancy", "dislocation", "grain boundary"]
+                }
+              ]
+            },
+            {
+              "name": "Phase Diagrams",
+              "description": "Equilibrium phase diagrams and transformations",
+              "subtopics": [
+                {
+                  "name": "Binary Phase Diagrams",
+                  "description": "Lever rule, eutectic, peritectic systems",
+                  "keywords": ["phase diagram", "eutectic", "lever rule", "solidus", "liquidus"]
+                },
+                {
+                  "name": "Iron-Carbon Diagram",
+                  "description": "Fe-C equilibrium diagram and steel classification",
+                  "keywords": ["iron", "carbon", "steel", "austenite", "ferrite", "cementite"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "General Aptitude",
+      "code": "APTITUDE",
+      "description": "Quantitative aptitude and reasoning",
+      "sections": [
+        {
+          "name": "Quantitative Aptitude",
+          "topics": [
+            {
+              "name": "Arithmetic",
+              "subtopics": [
+                {
+                  "name": "Percentage and Ratio",
+                  "keywords": ["percentage", "ratio", "proportion"]
+                },
+                {
+                  "name": "Time and Work",
+                  "keywords": ["time", "work", "efficiency"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Logical Reasoning",
+          "topics": [
+            {
+              "name": "Verbal Reasoning",
+              "subtopics": [
+                {
+                  "name": "Analogies",
+                  "keywords": ["analogy", "relationship"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
