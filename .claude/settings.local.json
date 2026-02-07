@@ -8,7 +8,14 @@
       "Bash(cat:*)",
       "Bash(tee:*)",
       "Bash(find:*)",
-      "Bash(pkill:*)"
+      "Bash(pkill:*)",
+      "Bash(chmod:*)",
+      "Bash(./update_imports.sh:*)",
+      "Bash(echo:*)",
+      "Bash(lsof:*)",
+      "Bash(xargs kill -9)",
+      "Bash(ollama stop:*)",
+      "Bash(kill:*)"
     ],
     "deny": [],
     "ask": []

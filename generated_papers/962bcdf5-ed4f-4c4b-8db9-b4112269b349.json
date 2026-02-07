@@ -1,0 +1,119 @@
+{
+  "paper_id": "962bcdf5-ed4f-4c4b-8db9-b4112269b349",
+  "paper_name": "PDF Upload - somatosensory.pdf",
+  "subject": "General",
+  "created_at": "2026-02-07T01:55:40.939037",
+  "total_questions": 5,
+  "questions": [
+    {
+      "question_id": "117d58f9-e51f-4bde-8950-789d840d2157",
+      "test_section": "The following description is based on lecture notes from Laszlo Zaborszky, from Rutgers University.",
+      "main_topic": "The following description is based on lecture notes from Laszlo Zaborszky, from Rutgers University.",
+      "subtopic": "General Concepts",
+      "difficulty": "Medium",
+      "question_text_en": "A vector's magnitude can be found using which formula?",
+      "option_a_en": "v = (x^2 + y^2 + z^2)^(1/2)",
+      "option_b_en": "v = sqrt(x\u00b2 + y\u00b2 + z\u00b2)",
+      "option_c_en": "v = x + y + z",
+      "option_d_en": "v = x - y - z",
+      "correct_answer": "B",
+      "explanation": "The magnitude of a vector is the square root of the sum of the squares of its components. This formula, v = sqrt(x\u00b2 + y\u00b2 + z\u00b2), allows us to find the length of the vector in three-dimensional space.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Vector#Magnitude",
+        "Fundamentals of Physics by Halliday, Resnick, and Walker, Chapter 2, Section 2-3"
+      ],
+      "created_at": "2026-02-07T01:55:40.938932",
+      "source_pdf": null,
+      "has_diagram": false,
+      "tags": []
+    },
+    {
+      "question_id": "6eb52833-bc53-4c29-96ff-59031e5a1fcf",
+      "test_section": "The following description is based on lecture notes from Laszlo Zaborszky, from Rutgers University.",
+      "main_topic": "The following description is based on lecture notes from Laszlo Zaborszky, from Rutgers University.",
+      "subtopic": "General Concepts",
+      "difficulty": "Medium",
+      "question_text_en": "Which of the following is NOT a fundamental physical quantity?",
+      "option_a_en": "Speed",
+      "option_b_en": "Velocity",
+      "option_c_en": "Acceleration",
+      "option_d_en": "Temperature",
+      "correct_answer": "A",
+      "explanation": "While speed and velocity are derived quantities in physics, temperature is a fundamental physical quantity. It describes the thermal state of matter. On the other hand, speed is a scalar that measures how fast an object moves without regard to direction.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Fundamental_physical_quantity",
+        "Physics for Scientists and Engineers by Paul A. Tipler and Gene Mosca, Chapter 2"
+      ],
+      "created_at": "2026-02-07T01:55:40.938959",
+      "source_pdf": null,
+      "has_diagram": false,
+      "tags": []
+    },
+    {
+      "question_id": "ee7329c5-a5ca-4863-8638-f8c0b0befee0",
+      "test_section": "The following description is based on lecture notes from Laszlo Zaborszky, from Rutgers University.",
+      "main_topic": "The following description is based on lecture notes from Laszlo Zaborszky, from Rutgers University.",
+      "subtopic": "General Concepts",
+      "difficulty": "Medium",
+      "question_text_en": "If a body falls under the influence of gravity, its acceleration is approximately:",
+      "option_a_en": "10 m/s\u00b2",
+      "option_b_en": "9.8 m/s\u00b2",
+      "option_c_en": "32 ft/s\u00b2",
+      "option_d_en": "7.5 m/s\u00b2",
+      "correct_answer": "B",
+      "explanation": "The acceleration due to gravity on the Earth's surface is approximately 9.8 meters per second squared (m/s\u00b2). This value, commonly denoted as g, is used in calculations related to falling objects, projectiles, and other situations involving gravitational forces.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Acceleration_due_to_gravity",
+        "University Physics with Modern Physics by Young and Freedman, Chapter 7"
+      ],
+      "created_at": "2026-02-07T01:55:40.938971",
+      "source_pdf": null,
+      "has_diagram": false,
+      "tags": []
+    },
+    {
+      "question_id": "1090b4b7-e897-460c-9079-869537f0b430",
+      "test_section": "The following description is based on lecture notes from Laszlo Zaborszky, from Rutgers University.",
+      "main_topic": "The following description is based on lecture notes from Laszlo Zaborszky, from Rutgers University.",
+      "subtopic": "General Concepts",
+      "difficulty": "Medium",
+      "question_text_en": "The principle of conservation of energy applies to:",
+      "option_a_en": "Electromagnetic waves",
+      "option_b_en": "Mechanical systems",
+      "option_c_en": "Thermal systems",
+      "option_d_en": "All of the above",
+      "correct_answer": "D",
+      "explanation": "The principle of conservation of energy states that energy cannot be created or destroyed, only transferred from one form to another. Therefore, it applies to electromagnetic waves, mechanical systems, and thermal systems.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Conservation_of_energy",
+        "Physics for Scientists and Engineers by Paul A. Tipler and Gene Mosca, Chapter 15"
+      ],
+      "created_at": "2026-02-07T01:55:40.938979",
+      "source_pdf": null,
+      "has_diagram": false,
+      "tags": []
+    },
+    {
+      "question_id": "3465c9ee-84c9-4812-b888-051f0a0d3858",
+      "test_section": "The following description is based on lecture notes from Laszlo Zaborszky, from Rutgers University.",
+      "main_topic": "The following description is based on lecture notes from Laszlo Zaborszky, from Rutgers University.",
+      "subtopic": "General Concepts",
+      "difficulty": "Medium",
+      "question_text_en": "Which of the following is an example of a closed system?",
+      "option_a_en": "A gas trapped inside a sealed container",
+      "option_b_en": "An open flame burning in air",
+      "option_c_en": "A bucket of water left on a table",
+      "option_d_en": "Water flowing from a faucet into a sink",
+      "correct_answer": "A",
+      "explanation": "In physics, a closed system is one that does not exchange matter with its surroundings. An example of such a system is a gas trapped inside a sealed container, where the amount of gas remains constant during the process.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Closed_system",
+        "Thermodynamics and Heat Transfer by Cengel and Boles, Chapter 1"
+      ],
+      "created_at": "2026-02-07T01:55:40.938985",
+      "source_pdf": null,
+      "has_diagram": false,
+      "tags": []
+    }
+  ]
+}

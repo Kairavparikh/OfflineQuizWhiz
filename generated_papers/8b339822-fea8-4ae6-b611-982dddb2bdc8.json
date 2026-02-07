@@ -1,0 +1,119 @@
+{
+  "paper_id": "8b339822-fea8-4ae6-b611-982dddb2bdc8",
+  "paper_name": "PDF Upload - somatosensory.pdf",
+  "subject": "General",
+  "created_at": "2026-02-07T01:33:42.931129",
+  "total_questions": 5,
+  "questions": [
+    {
+      "question_id": "00ca867b-6bed-459d-8ce6-1de3982c0c23",
+      "test_section": "General",
+      "main_topic": "General",
+      "subtopic": "Content Analysis",
+      "difficulty": "Medium",
+      "question_text_en": "According to the image, which type of muscle fibers are present at high density in the digits and around the mouth?",
+      "option_a_en": "Slow-twitch fibers",
+      "option_b_en": "Fast-twitch fibers",
+      "option_c_en": "Red fibers",
+      "option_d_en": "White fibers",
+      "correct_answer": "B",
+      "explanation": "The image shows a spindle with typical positions for muscle fibers. Fast-twitch fibers are present at high density in the digits and around the mouth, as shown in the diagram.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Skeletal_muscle#Types_of_fibers",
+        "Human Physiology by Michael Z. Lin, Chapter 12"
+      ],
+      "created_at": "2026-02-07T01:33:42.931058",
+      "source_pdf": "tmpk9323e4r.pdf",
+      "has_diagram": true,
+      "tags": []
+    },
+    {
+      "question_id": "58fb2483-67a9-4b55-bfb4-28a87b058c8b",
+      "test_section": "General",
+      "main_topic": "General",
+      "subtopic": "Content Analysis",
+      "difficulty": "Medium",
+      "question_text_en": "What is the function of the labeled component in the image?",
+      "option_a_en": "To produce red blood cells",
+      "option_b_en": "To produce white blood cells",
+      "option_c_en": "To produce platelets",
+      "option_d_en": "To produce hemoglobin",
+      "correct_answer": "B",
+      "explanation": "The labeled component in the image is responsible for producing white blood cells, which are important for immune function.",
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK519113/",
+        "Immunobiology by Janeway et al., Chapter 4"
+      ],
+      "created_at": "2026-02-07T01:33:42.931089",
+      "source_pdf": "tmpk9323e4r.pdf",
+      "has_diagram": true,
+      "tags": []
+    },
+    {
+      "question_id": "d21cf519-191b-44f3-b6b5-25a6a9431be4",
+      "test_section": "General",
+      "main_topic": "General",
+      "subtopic": "Content Analysis",
+      "difficulty": "Medium",
+      "question_text_en": "In the image, what is the relationship between the colored cells and their relative positions?",
+      "option_a_en": "The larger cells are closer to the smaller cells.",
+      "option_b_en": "The colored cells surround the uncolored cells.",
+      "option_c_en": "The red cells are located between the white cells.",
+      "option_d_en": "The white cells are surrounded by the red cells.",
+      "correct_answer": "C",
+      "explanation": "In the image, red blood cells (RBCs) are seen in between white blood cells (WBCs), which is a normal characteristic of blood cell distribution. The WBCs are typically larger and less abundant than RBCs.",
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK519113/",
+        "Immunobiology by Janeway et al., Chapter 4"
+      ],
+      "created_at": "2026-02-07T01:33:42.931101",
+      "source_pdf": "tmpk9323e4r.pdf",
+      "has_diagram": true,
+      "tags": []
+    },
+    {
+      "question_id": "f9e09ab4-98dd-4327-896d-a4c1973aa9ba",
+      "test_section": "General",
+      "main_topic": "General",
+      "subtopic": "Content Analysis",
+      "difficulty": "Medium",
+      "question_text_en": "Which part of the image shows a high density of afferent activity?",
+      "option_a_en": "A",
+      "option_b_en": "B",
+      "option_c_en": "C",
+      "option_d_en": "D",
+      "correct_answer": "D",
+      "explanation": "The image shows a spindle with typical positions for muscle fibers. The area around the mouth (Region D) is shown to have a high density of afferent activity, which is typical for muscles used in fine movements and sensitive to touch.",
+      "references": [
+        "https://en.wikipedia.org/wiki/Skeletal_muscle#Types_of_fibers",
+        "Human Physiology by Michael Z. Lin, Chapter 12"
+      ],
+      "created_at": "2026-02-07T01:33:42.931108",
+      "source_pdf": "tmpk9323e4r.pdf",
+      "has_diagram": true,
+      "tags": []
+    },
+    {
+      "question_id": "0d6c5d63-7e3d-4cb5-8b2b-37018356c674",
+      "test_section": "General",
+      "main_topic": "General",
+      "subtopic": "Content Analysis",
+      "difficulty": "Medium",
+      "question_text_en": "In the image, what is the function of the large cells with filaments?",
+      "option_a_en": "To provide oxygen to the body",
+      "option_b_en": "To help in blood clotting",
+      "option_c_en": "To facilitate muscle contraction",
+      "option_d_en": "To produce hormones",
+      "correct_answer": "C",
+      "explanation": "The large cells with filaments shown in the image are called myocytes, which are responsible for facilitating muscle contraction.",
+      "references": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK519113/",
+        "Immunobiology by Janeway et al., Chapter 4"
+      ],
+      "created_at": "2026-02-07T01:33:42.931115",
+      "source_pdf": "tmpk9323e4r.pdf",
+      "has_diagram": true,
+      "tags": []
+    }
+  ]
+}

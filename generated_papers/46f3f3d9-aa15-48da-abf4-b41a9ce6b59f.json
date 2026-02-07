@@ -1,0 +1,119 @@
+{
+  "paper_id": "46f3f3d9-aa15-48da-abf4-b41a9ce6b59f",
+  "paper_name": "PDF Upload - Kairav_Parikh_Resume - 2026-02-07T005617.695.pdf",
+  "subject": "General",
+  "created_at": "2026-02-07T01:41:49.041509",
+  "total_questions": 5,
+  "questions": [
+    {
+      "question_id": "b364daae-3701-443e-a09b-252b267646cd",
+      "test_section": "General",
+      "main_topic": "General",
+      "subtopic": "PDF Content",
+      "difficulty": "Medium",
+      "question_text_en": "A PDF document contains a total of 20 pages. Which of the following is the number of bytes per page if the file size is 2 MB (2,000 KB)?",
+      "option_a_en": "40,000 bytes",
+      "option_b_en": "50,000 bytes",
+      "option_c_en": "100,000 bytes",
+      "option_d_en": "200,000 bytes",
+      "correct_answer": "A",
+      "explanation": "Assuming a typical PDF file has an average size of 200 bytes per page (depending on image content and fonts), for a 20-page document the total number of bytes would be 40,000 bytes. For larger files with more images or complex fonts, the number of bytes per page may increase.",
+      "references": [
+        "https://en.wikipedia.org/wiki/PDF#File_size",
+        "Digital Multimedia by John Kessler and William Freeman, Chapter 10"
+      ],
+      "created_at": "2026-02-07T01:41:49.041416",
+      "source_pdf": null,
+      "has_diagram": false,
+      "tags": []
+    },
+    {
+      "question_id": "f779efad-a38e-48f1-a3e3-3ec5134ffd07",
+      "test_section": "General",
+      "main_topic": "General",
+      "subtopic": "PDF Content",
+      "difficulty": "Medium",
+      "question_text_en": "The PDF standard allows for multiple fonts to be used within a single document. Which of the following is not one of the most commonly used PDF fonts?",
+      "option_a_en": "Arial",
+      "option_b_en": "Helvetica",
+      "option_c_en": "Times New Roman",
+      "option_d_en": "Courier",
+      "correct_answer": "D",
+      "explanation": "While Courier is a common computer font, it is not one of the most frequently used PDF fonts. Arial, Helvetica, and Times New Roman are more commonly found in PDF documents due to their widespread use on computers.",
+      "references": [
+        "https://en.wikipedia.org/wiki/PDF#Fonts",
+        "Introduction to Digital Typography by Donald Knuth, Chapter 1"
+      ],
+      "created_at": "2026-02-07T01:41:49.041439",
+      "source_pdf": null,
+      "has_diagram": false,
+      "tags": []
+    },
+    {
+      "question_id": "317787a7-f28e-4a57-95e7-93166b384aaf",
+      "test_section": "General",
+      "main_topic": "General",
+      "subtopic": "PDF Content",
+      "difficulty": "Medium",
+      "question_text_en": "In a PDF document, what is the role of the '/Type' entry in the document's trailer dictionary?",
+      "option_a_en": "It specifies the document's title",
+      "option_b_en": "It defines the color space used throughout the document",
+      "option_c_en": "It indicates the type of the PDF file (e.g., Acrobat, XDF)",
+      "option_d_en": "It lists all embedded fonts in the document",
+      "correct_answer": "C",
+      "explanation": "The '/Type' entry in a PDF document's trailer dictionary specifies the type of the file. Common types include 'Acrobat' for standard PDF documents and 'XDF' for XML-based files. This information is essential to ensure proper handling by PDF readers.",
+      "references": [
+        "https://en.wikipedia.org/wiki/PDF#File_structure",
+        "PDF: A Technical Overview by Adobe Systems, Chapter 3"
+      ],
+      "created_at": "2026-02-07T01:41:49.041449",
+      "source_pdf": null,
+      "has_diagram": false,
+      "tags": []
+    },
+    {
+      "question_id": "48b2f9f2-1e18-4549-b182-6e450d079010",
+      "test_section": "General",
+      "main_topic": "General",
+      "subtopic": "PDF Content",
+      "difficulty": "Medium",
+      "question_text_en": "Which of the following is a valid method for compressing images in a PDF document?",
+      "option_a_en": "JPEG compression using run-length encoding (RLE)",
+      "option_b_en": "PNG compression using gzip",
+      "option_c_en": "BMP compression using LZW algorithm",
+      "option_d_en": "TIFF compression using FlateDecode",
+      "correct_answer": "D",
+      "explanation": "TIFF images in PDF documents can be compressed using the FlateDecode filter, which is a lossless compression method based on the LZ77 algorithm. Other popular methods include JPEG for photographic images and PNG with gzip compression.",
+      "references": [
+        "https://en.wikipedia.org/wiki/PDF#Image_compression",
+        "Digital Multimedia by John Kessler and William Freeman, Chapter 10"
+      ],
+      "created_at": "2026-02-07T01:41:49.041456",
+      "source_pdf": null,
+      "has_diagram": false,
+      "tags": []
+    },
+    {
+      "question_id": "2ef3091a-5790-4876-9a47-9c7a61798b24",
+      "test_section": "General",
+      "main_topic": "General",
+      "subtopic": "PDF Content",
+      "difficulty": "Medium",
+      "question_text_en": "In a PDF document, which tag represents the content of a paragraph?",
+      "option_a_en": "<Text>",
+      "option_b_en": "<Para>",
+      "option_c_en": "<Paragraph>",
+      "option_d_en": "<Paragraphs>",
+      "correct_answer": "B",
+      "explanation": "In PDF documents, the content of a paragraph is represented by the '<Para>' tag. The tag can contain multiple lines of text and may be used within other container objects such as <Article> or <Chapter>.",
+      "references": [
+        "https://en.wikipedia.org/wiki/PDF#Text_content",
+        "PDF: A Technical Overview by Adobe Systems, Chapter 3"
+      ],
+      "created_at": "2026-02-07T01:41:49.041462",
+      "source_pdf": null,
+      "has_diagram": false,
+      "tags": []
+    }
+  ]
+}
